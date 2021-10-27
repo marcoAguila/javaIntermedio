@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ArbolBinarioDeBusqueda()
+comment1.params=
+comment1.target=boolean\ estaVacio()
+comment2.params=dato
+comment2.target=void\ add(java.lang.Comparable)
+comment3.params=dato
+comment3.target=java.lang.Comparable\ remove(java.lang.Comparable)
+comment4.params=
+comment4.target=java.lang.Comparable\ desDer()
+comment5.params=
+comment5.target=int\ estadoArbol()
+numComments=6
